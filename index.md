@@ -1,4 +1,3 @@
----
-title: Welcome to my blog
----
+# skills - github pages
 
+I learn something new every day.
